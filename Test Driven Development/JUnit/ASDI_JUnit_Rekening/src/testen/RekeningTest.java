@@ -10,33 +10,25 @@ import org.junit.jupiter.params.provider.ValueSource;
 public class RekeningTest {
     @Test
     public void nummerOk() {
-        Assertions.assertDoesNotThrow(() -> {
-            new Rekening("063-1547563-60");
-        });
+        Assertions.assertDoesNotThrow(() -> new Rekening("063-1547563-60"));
     }
 
     @Test
     public void grootNummerOk() {
-        Assertions.assertDoesNotThrow(() -> {
-            new Rekening("999-9999999-48");
-        });
+        Assertions.assertDoesNotThrow(() -> new Rekening("999-9999999-48"));
     }
 
     @ParameterizedTest
     @ValueSource(strings = {"063-1547563-60", "999-9999999-48"})
     public void geldigRekeningnummer(String rekeningnummer) {
-        Assertions.assertDoesNotThrow(() -> {
-            new Rekening(rekeningnummer);
-        });
+        Assertions.assertDoesNotThrow(() -> new Rekening(rekeningnummer));
     }
 
     @ParameterizedTest
     @NullAndEmptySource
     @ValueSource(strings = {"063-1547563-61", " ", "063-1547563", "063-1547563-601"})
     public void ongeldigRekeningnummer(String rekeningnummer) {
-        Assertions.assertThrows(IllegalAccessException.class, () -> {
-            new Rekening(rekeningnummer);
-        });
+        Assertions.assertThrows(IllegalArgumentException.class, () -> new Rekening(rekeningnummer));
     }
 
 }
