@@ -8,7 +8,11 @@
 [Herhalingsoefeningen](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Herhalingsoefeningen)
 
 ### Test Driven Development
-[JUnit](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit)\
+[JUnit](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit)
+* [Weegschaal](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit/ASDI_JUnit_Weegschaal)
+* [Rekening](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit/Rekening)
+* [Bowling](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit/Bowling)
+
 [Mockito](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/Mockito)\
 [Herhalingsoefeningen](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/Herhalingsoefeningen)
 
