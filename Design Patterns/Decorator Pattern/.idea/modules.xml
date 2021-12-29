@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASDI_DP_Decorator_Koffie/ASDI_DP_Decorator_Koffie.iml" filepath="$PROJECT_DIR$/ASDI_DP_Decorator_Koffie/ASDI_DP_Decorator_Koffie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Decorator Pattern.iml" filepath="$PROJECT_DIR$/.idea/Decorator Pattern.iml" />
+    </modules>
+  </component>
+</project>

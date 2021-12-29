@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASDI_DP_SimpleFactory/ASDI_DP_SimpleFactory.iml" filepath="$PROJECT_DIR$/ASDI_DP_SimpleFactory/ASDI_DP_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_DP_Strategy_SimpleFactory_opgave/ASDI_DP_Strategy_SimpleFactory_opgave.iml" filepath="$PROJECT_DIR$/ASDI_DP_Strategy_SimpleFactory_opgave/ASDI_DP_Strategy_SimpleFactory_opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Simple Factory.iml" filepath="$PROJECT_DIR$/.idea/Simple Factory.iml" />
+    </modules>
+  </component>
+</project>
