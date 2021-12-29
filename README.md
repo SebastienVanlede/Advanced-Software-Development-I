@@ -1,17 +1,11 @@
 # Advanced-Software-Development-I
 ## Inhoudstabel
 ### Java
-Komt ASAP online
+[Collections & Streams](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Collections%20en%20streams)
 
 ### Test Driven Development
-[JUnit](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit)
-* [Weegschaal](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit/ASDI_JUnit_Weegschaal)
-* [Rekening](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit/Rekening)
-* [Bowling](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit/Bowling)
-
-[Mockito](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/Mockito)
-* [Landen](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/Mockito/ASDI_Mockito_Landen)
-* [Opgave](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/Mockito/ASDI_Mockito_opgave)
+[JUnit](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit)\
+[Mockito](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/Mockito)\
 [Herhalingsoefeningen](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/Herhalingsoefeningen)
 
 ### Design Patterns
