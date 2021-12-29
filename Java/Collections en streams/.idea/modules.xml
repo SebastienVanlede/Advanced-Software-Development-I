@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_CollectionsOpstart_0/ASDI_Java_CollectionsOpstart_0.iml" filepath="$PROJECT_DIR$/ASDI_Java_CollectionsOpstart_0/ASDI_Java_CollectionsOpstart_0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_Map_Bier/ASDI_Java_Map_Bier.iml" filepath="$PROJECT_DIR$/ASDI_Java_Map_Bier/ASDI_Java_Map_Bier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_Map_Oefeningen/ASDI_Java_Map_Oefeningen.iml" filepath="$PROJECT_DIR$/ASDI_Java_Map_Oefeningen/ASDI_Java_Map_Oefeningen.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Collections en streams.iml" filepath="$PROJECT_DIR$/.idea/Collections en streams.iml" />
     </modules>
   </component>
