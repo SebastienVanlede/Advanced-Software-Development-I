@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root prefHeight="49.0" prefWidth="381.0" spacing="15.0" type="HBox" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox prefHeight="100.0" prefWidth="200.0" spacing="2.0">
+         <children>
+            <Label fx:id="lblAmount" text="Amount:" />
+            <TextField fx:id="txtAmount" />
+         </children>
+      </HBox>
+      <Button fx:id="btnDeposit" mnemonicParsing="false" onAction="#deposit" text="Deposit" />
+      <Button fx:id="btnWithdraw" mnemonicParsing="false" onAction="#withdraw" text="Withdraw" />
+   </children>
+   <padding>
+      <Insets left="10.0" top="10.0" />
+   </padding>
+</fx:root>

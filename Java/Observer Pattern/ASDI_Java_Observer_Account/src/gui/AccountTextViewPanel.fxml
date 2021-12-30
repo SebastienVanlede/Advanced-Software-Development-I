@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root spacing="10.0" styleClass="status" type="HBox" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="lblBalance" text="Balance: " />
+      <TextField fx:id="txtBalance" editable="false" prefHeight="25.0" prefWidth="162.0" />
+   </children>
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="10.0" />
+   </padding>
+</fx:root>

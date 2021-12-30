@@ -1,0 +1,18 @@
+.root{
+    -fx-background: WHITE;
+}
+
+.button{
+    -fx-text-fill: rgb(49, 89, 23);
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+    -fx-font: 14px "Serif";
+    -fx-background-color: #CCFF99;
+}
+
+.status
+{
+    -fx-background-color: beige;
+    -fx-border-color: BLACK
+}
