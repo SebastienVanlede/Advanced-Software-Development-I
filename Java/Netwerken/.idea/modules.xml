@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_client/ASDI_Java_NET_TCP_FX_client.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_client/ASDI_Java_NET_TCP_FX_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_common/ASDI_Java_NET_TCP_FX_common.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_common/ASDI_Java_NET_TCP_FX_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_server/ASDI_Java_NET_TCP_FX_server.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_TCP_FX_server/ASDI_Java_NET_TCP_FX_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_TCP_FileTransfer_Client/ASDI_Java_NET_TCP_FileTransfer_Client.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_TCP_FileTransfer_Client/ASDI_Java_NET_TCP_FileTransfer_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_TCP_FileTransfer_Server/ASDI_Java_NET_TCP_FileTransfer_Server.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_TCP_FileTransfer_Server/ASDI_Java_NET_TCP_FileTransfer_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ASDI_Java_NET_UPD_Pinger/ASDI_Java_NET_UPD_Pinger.iml" filepath="$PROJECT_DIR$/ASDI_Java_NET_UPD_Pinger/ASDI_Java_NET_UPD_Pinger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Netwerken.iml" filepath="$PROJECT_DIR$/.idea/Netwerken.iml" />
+    </modules>
+  </component>
+</project>

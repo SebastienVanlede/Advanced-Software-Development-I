@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root prefHeight="342.0" prefWidth="336.0" type="BorderPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <GridPane BorderPane.alignment="CENTER">
+        <columnConstraints>
+            <ColumnConstraints hgrow="ALWAYS" maxWidth="106.0" minWidth="10.0" prefWidth="22.0" />
+          <ColumnConstraints hgrow="ALWAYS" maxWidth="202.0" minWidth="10.0" prefWidth="202.0" />
+          <ColumnConstraints hgrow="ALWAYS" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="ALWAYS" />
+        </rowConstraints>
+         <children>
+            <TextField fx:id="txtFileNaam" onAction="#actionTxtFileNaam" GridPane.columnIndex="1" />
+            <Button fx:id="btnSaveBack" mnemonicParsing="false" onAction="#btnSaveBack" prefHeight="25.0" prefWidth="92.0" text="SaveBack" GridPane.columnIndex="2" />
+            <Label prefHeight="17.0" prefWidth="61.0" text="File" />
+         </children>
+      </GridPane>
+   </top>
+   <center>
+      <TextArea fx:id="txaArea" prefHeight="246.0" prefWidth="313.0" BorderPane.alignment="CENTER" />
+   </center>
+</fx:root>

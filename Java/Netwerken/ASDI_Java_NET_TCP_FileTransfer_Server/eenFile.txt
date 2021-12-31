@@ -1,0 +1,9 @@
+﻿The Java Persistence API (JPA) is a Java application programming interface specification that describes the management of relational data in applications using Java Platform, Standard Edition and Java Platform, Enterprise Edition.
+
+The Java Persistence API originated as part of the work of the JSR 220 Expert Group of the Java Community Process. JPA 2.0 was the work of the JSR 317 Expert Group.
+
+Persistence in this context covers three areas:
+
+the API itself, defined in the javax.persistence package
+the Java Persistence Query Language (JPQL)
+object/relational metadata
