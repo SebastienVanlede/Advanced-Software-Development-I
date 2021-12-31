@@ -1,7 +1,11 @@
 # Advanced-Software-Development-I
 ## Inhoudstabel
 ### Java
-[Collections & Streams](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Collections%20en%20streams)
+[Collections & Streams](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Collections%20en%20streams)\
+[Generics](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Generics)\
+[Observer Pattern](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Observer%20Pattern)\
+[Netwerken](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Netwerken)\
+[Herhalingsoefeningen]()
 
 ### Test Driven Development
 [JUnit](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit)\
