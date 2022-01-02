@@ -5,7 +5,7 @@
 [Generics](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Generics)\
 [Observer Pattern](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Observer%20Pattern)\
 [Netwerken](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Netwerken)\
-[Herhalingsoefeningen]()
+[Herhalingsoefeningen](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Java/Herhalingsoefeningen)
 
 ### Test Driven Development
 [JUnit](https://github.com/SebastienVanlede/Advanced-Software-Development-I/tree/main/Test%20Driven%20Development/JUnit)\
